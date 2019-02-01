@@ -30,8 +30,10 @@ OpendTect - пакет интерпретации сейсмических да�
 https://dgbes.com/
 https://github.com/OpendTect/OpendTect
 
-SEG-Y/PC - приложение для просмотра и редактирования сейсмических файлов SEG-Y/PC
-Документация на него: http://www.xgeo.ru/index.php/ru/zagruzki/probnye-versii.html#downloads_docs_ru
+[SEG-Y/PC]( http://www.xgeo.ru/index.php/ru/zagruzki/probnye-versii.html#downloads_docs_ru)
+- приложение для просмотра и редактирования сейсмических файлов SEG-Y/PC
+Документация на него: 
+[SEG-Y/PC]: http://www.xgeo.ru/index.php/ru/zagruzki/probnye-versii.html#downloads_docs_ru
 
 градиентный спуск -
 (MAE)(MSE)
