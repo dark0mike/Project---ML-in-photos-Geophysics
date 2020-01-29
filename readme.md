@@ -112,6 +112,7 @@ https://www.asozykin.ru/deep_learning/2017/09/07/keras-installation-tensorflow
 1.[Базовый курс по  ML](https://www.coursera.org/learn/machine-learning)
 
 2.[В дополнение](http://www.dataschool.io/15-hours-of-expert-machine-learning-videos/)
+
 3.[Keras доступен на офф сайте](https://keras.io/getting-started/sequential-model-guide/)
 
 4. [Книги](https://drive.google.com/drive/folders/1ngisRbvktPKkRaX4pzQs9a6o_WIUubDi?usp=sharing)
