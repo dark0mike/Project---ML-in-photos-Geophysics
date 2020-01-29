@@ -101,8 +101,8 @@ https://www.asozykin.ru/deep_learning/2017/09/07/keras-installation-tensorflow
  
 ### Для работы в облаке
  
-Используется также просто как и обычный Jupyter; подробнее написано [здесь](https://www.asozykin.ru/deep_learning/2018/04/04/Google-Colaboratory-for-Deep-Learning.html).
-####Материалы и курсы для программирования на python 
+Используется также просто как и обычный Jupyter.
+#### Материалы и курсы для программирования на python 
 * https://www.coursera.org/specializations/python
 * https://www.coursera.org/learn/programming-in-python
 * https://programming086.blogspot.ru/2015/12/python-2015.html
